@@ -1,4 +1,5 @@
-#StockExchange take-home assignment
+#StockExchange 
+take-home assignment
 
 ##Overview
 
